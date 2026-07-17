@@ -1,7 +1,7 @@
 # Hi 👋, I'm SAM JAYA PRAKASH D
 
 <h3 align="center">
-🚀 Software Developer | Full Stack Developer | ECE Undergraduate
+🚀 Software Developer | AI Full Stack Developer | ECE Undergraduate
 </h3>
 
 <p align="center">
@@ -20,7 +20,7 @@ Building intelligent software, AI-powered applications that solve real-world pro
 
 🎓 B.E. Electronics and Communication Engineering (ECE)
 
-💻 Passionate about Software Development,Full Stack Developer, AI and Machine Learning 
+💻 Passionate about Software Development,AI Full Stack Developer, AI and Machine Learning 
 
 🌱 Currently learning
 
