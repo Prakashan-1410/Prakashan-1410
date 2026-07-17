@@ -46,9 +46,7 @@ Become a Software Engineer at Microsoft, Google, Cisco, Amazon or other leading 
 
 <p align="left">
 
-<a href="www.linkedin.com/in/sam-jaya-prakash-d-993181330">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sam-jaya-prakash-d-993181330)
 
 <a href="https://github.com/Prakashan-1410">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
