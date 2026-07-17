@@ -1,11 +1,11 @@
 # Hi 👋, I'm SAM JAYA PRAKASH D
 
 <h3 align="center">
-🚀 Software Developer | AI & Machine Learning Enthusiast | IoT Innovator | ECE Undergraduate
+🚀 Software Developer | Full Stack Developer | ECE Undergraduate
 </h3>
 
 <p align="center">
-Building intelligent software, AI-powered applications, and embedded systems that solve real-world problems.
+Building intelligent software, AI-powered applications that solve real-world problems.
 </p>
 
 ---
@@ -20,14 +20,13 @@ Building intelligent software, AI-powered applications, and embedded systems tha
 
 🎓 B.E. Electronics and Communication Engineering (ECE)
 
-💻 Passionate about Software Development, AI, Machine Learning and IoT
+💻 Passionate about Software Development,Full Stack Developer, AI and Machine Learning 
 
 🌱 Currently learning
 
 * JavaScript
 * React
 * Deep Learning
-* Data Structures & Algorithms
 * Backend Development
 
 🚀 Current Focus
@@ -47,7 +46,7 @@ Become a Software Engineer at Microsoft, Google, Cisco, Amazon or other leading 
 
 <p align="left">
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="www.linkedin.com/in/sam-jaya-prakash-d-993181330">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
@@ -55,9 +54,9 @@ Become a Software Engineer at Microsoft, Google, Cisco, Amazon or other leading 
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<!-- <a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/>
-</a>
+</a> -->
 
 </p>
 
@@ -123,21 +122,6 @@ OpenCV
 
 ---
 
-### IoT
-
-ESP32
-
-Arduino
-
-Raspberry Pi Pico W
-
-Embedded Systems
-
-Sensors
-
-MicroPython
-
----
 
 ### Tools
 
@@ -148,10 +132,6 @@ GitHub
 VS Code
 
 Postman
-
-XAMPP
-
-Arduino IDE
 
 Thonny
 
